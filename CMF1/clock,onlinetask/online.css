@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.online-checker{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: red;
+    color: yellow;
+    font-size: 3rem;
+    padding: 2rem 3rem;
+    transition:tranform .3s linear;
+    transform: translateY(-100%);
+    
+
+
+}

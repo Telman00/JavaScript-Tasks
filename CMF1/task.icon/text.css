@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.accordion-container {
+  max-width: 900px;
+  margin: 50px auto;
+}
+
+.accordion-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid grey;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  
+}
+
+.accordion-items .content {
+  display: none;
+}
+
+.accordion-items.active .content {
+  display: block;
+}
+
+.open {
+  font-size: 25px;
+  color: black;
+  cursor: pointer;
+}

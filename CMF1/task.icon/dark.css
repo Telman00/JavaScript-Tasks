@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root {
+    --black: #000;
+    --white: #fff;
+}
+
+
+body{
+    background-color: var(--white);
+    color: var(--black);
+    transition: .3s;
+}
+
+body.dark-mode {
+
+    background-color: var(--black);
+    color: var(--white);
+
+}
+.btn{
+    font-size: 25px;
+}

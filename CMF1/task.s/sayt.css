@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hover{
+    position: relative;
+    display: inline-block;
+}
+ul.dropdown  {
+    padding-top: 30px;
+    height: 250px;
+    position: absolute;
+    z-index: 1;
+    display: none;
+    width: 200px;
+    white-space: nowrap;
+    background-color: white;
+    
+}
+ .dropdown a:hover{
+    text-decoration: underline;
+ }
+ul li:hover ul.dropdown {
+ display: block;
+
+}
+.info{
+    text-align: center;
+    padding: 15px;
+    
+}
+.dropdown:hover{
+    display: block;
+}
+.sign{
+  background-image: url(https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-background-img.jpg);
+  height: 530px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: 40% -212px;
+}
+
+

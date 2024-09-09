@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn {
+  margin-top: 150px;
+}
+
+.mobile-menu {
+  position: fixed;
+  inset: 0;
+  transform: scale(0);
+  transition: 0.3s linear;
+  /* transform: translateY(-100%); */
+  background-color: skyblue;
+}
+.mobile-menu.open {
+  transform: scale(1);
+}

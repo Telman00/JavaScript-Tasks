@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "status": "On Sale",
+      "image": "https://themes.muffingroup.com/betheme-store2/wp-content/uploads/2022/08/bethemestore2-products-pic18.webp",
+      "link": "https://themes.muffingroup.com/betheme-store2/product/benotebook2/",
+      "name": "BeNotebook2",
+      "price": "$2,500.00 – $5,300.00"
+    },
+    {
+      "id": "2",
+      "status": "On Sale",
+      "image": "https://themes.muffingroup.com/betheme-store2/wp-content/uploads/2022/08/bethemestore2-products-pic17.webp",
+      "link": "https://themes.muffingroup.com/betheme-store2/product/benotebook2/",
+      "name": "BeHeadphones2",
+      "price": "$430.00"
+    },
+    {
+      "id": "3",
+      "status": "On Sale",
+      "image": "https://themes.muffingroup.com/betheme-store2/wp-content/uploads/2022/08/bethemestore2-products-pic16.webp",
+      "link": "https://themes.muffingroup.com/betheme-store2/product/besmartphone2/",
+      "name": "BeSmartphone2",
+      "price": "$220.00 – $320.00"
+    },
+    {
+      "id": "4",
+      "status": "On Sale",
+      "image": "https://themes.muffingroup.com/betheme-store2/wp-content/uploads/2022/08/bethemestore2-products-pic15.webp",
+      "link": "https://themes.muffingroup.com/betheme-store2/product/besmartwatch3/",
+      "name": "BeSmartWatch3",
+      "price": "$118.00 – $180.00"
+    },
+    {
+      "id": "5",
+      "status": "On Sale",
+      "image": "https://themes.muffingroup.com/betheme-store2/wp-content/uploads/2022/08/bethemestore2-products-pic18.webp",
+      "link": "https://themes.muffingroup.com/betheme-store2/product/benotebook2/",
+      "name": "BeNotebook2",
+      "price": "$2,500.00 – $5,300.00"
+    },
+    {
+      "id": "6",
+      "status": "On Sale",
+      "image": "https://themes.muffingroup.com/betheme-store2/wp-content/uploads/2022/08/bethemestore2-products-pic17.webp",
+      "link": "https://themes.muffingroup.com/betheme-store2/product/benotebook2/",
+      "name": "BeHeadphones2",
+      "price": "$430.00"
+    },
+    {
+      "id": "7",
+      "status": "On Sale",
+      "image": "https://themes.muffingroup.com/betheme-store2/wp-content/uploads/2022/08/bethemestore2-products-pic16.webp",
+      "link": "https://themes.muffingroup.com/betheme-store2/product/besmartphone2/",
+      "name": "BeSmartphone2",
+      "price": "$220.00 – $320.00"
+    },
+    {
+      "id": "8",
+      "status": "On Sale",
+      "image": "https://themes.muffingroup.com/betheme-store2/wp-content/uploads/2022/08/bethemestore2-products-pic15.webp",
+      "link": "https://themes.muffingroup.com/betheme-store2/product/besmartwatch3/",
+      "name": "BeSmartWatch3",
+      "price": "$118.00 – $180.00"
+    }
+  ]
+}
